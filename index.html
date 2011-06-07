@@ -44,7 +44,6 @@
         var limit = 10;
         $.getJSON('http://github.com/api/v2/json/user/show/' + login + '/organizations?callback=?', function(data) {
           var orgs = $.grep(data.organizations, function() {
-                this.name != undefined
           });
 
           $.each(orgs.slice(0, limit), function() {
