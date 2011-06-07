@@ -38,21 +38,15 @@
     </style>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript">
+    // https://github.com/api/v2/json/user/show/leto/organizations
       $(function() {
-        var limit = 25 // how many repos to list
         var login = 'leto' // your username
- 
-        $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
-          var repos = $.grep(data.user.repositories, function() {
-            return !this.fork
+        $.getJSON('http://github.com/api/v2/json/user/show/' + login + '/organizations?callback=?', function(data) {
+          var orgs = $.grep(data.organizations, function() {
           })
- 
-          repos.sort(function(a, b) {
-            return b.watchers - a.watchers
-          })
- 
-          $.each(repos.slice(0, limit), function() {
-            $('#repos').append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
+
+          $.each(orgs.slice(0, limit), function() {
+              $('#orgs').append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
           })
         })
       })
@@ -66,8 +60,8 @@
       <li><a href="http://ohloh.leto.net">ohloh</a></li>
       <li><a href="mailto:jonthan@leto.net">jonathan</a>@<a href="http://leto.net">leto.net</a></li>
     </ul>
-    <ul id="repos">
-      <li><h3>repositories</h3></li>
+    <ul id="orgs">
+      <li><h3>Github Organizations</h3></li>
     </ul>
   </body>
 </html>
