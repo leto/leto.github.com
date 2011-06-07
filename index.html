@@ -41,6 +41,7 @@
     // https://github.com/api/v2/json/user/show/leto/organizations
       $(function() {
         var login = 'leto' // your username
+        var limit = 10;
         $.getJSON('http://github.com/api/v2/json/user/show/' + login + '/organizations?callback=?', function(data) {
           var orgs = data.organizations;
 
