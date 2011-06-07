@@ -43,10 +43,12 @@
         var login = 'leto' // your username
         var limit = 10;
         $.getJSON('http://github.com/api/v2/json/user/show/' + login + '/organizations?callback=?', function(data) {
-          var orgs = data.organizations;
+          var orgs = $.grep(data.organizations, function() {
+                this.name != undefined
+          });
 
           $.each(orgs.slice(0, limit), function() {
-              $('#orgs').append('<li><a href="https://github.com/' + this.name + '">' + this.name + '</a></li>')
+              $('#orgs').append('<li><a href="https://github.com/' + this.login + '">' + this.name + '</a></li>')
           })
         })
       })
