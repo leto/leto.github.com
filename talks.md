@@ -6,6 +6,10 @@ title: Jonathan "Duke" Leto
 
 ## Talks and Presentations
 
+If you are feeling really stalkerish, feel free to clone the repo of all my presenetations:
+
+    git clone git://github.com/leto/presentations.git
+
 ### 2011
 
 * Writing Perl 6 Modules
