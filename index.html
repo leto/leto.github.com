@@ -17,7 +17,7 @@ Here are some projects that I hack on:
 <ul>
 <li><a href="http://parrot.org">Parrot Virtual Machine</a></li>
 <li><a href="http://perl6.org">Perl 6</a></li>
-<li><a href="http://search.cpan.org/~leto/">Perl 5 modules on CPAN</a></li>
+<li><a href="https://metacpan.org/author/LETO">Perl 5 modules on CPAN</a></li>
 <li><a href="http://modules.perl6.org">Perl 6 modules</a></li>
 <li><a href="http://bioperl.org">BioPerl</a></li>
 <li><a href="https://github.com/letolabs/parrot-libgit2">libgit2 bindings for Parrot</a></li>
@@ -46,12 +46,8 @@ and Open Source software. I do this because I know it makes the world a better p
 <p>
 I am always interested in giving <a href="talks.html">talks and presentations</a> about the various things that I hack on. If you would like me to talk about something at your user group, meetup, unconference, or whatever, please feel free to contact me.
 
-<br />
+</p>
 
-{% if site.bitcoin_address %}
-Bitcoin <b>{{ site.bitcoin_address }}</b>
-<br/>
-{% endif %}
 
 {% if site.dwolla_account_id %}
 <a href="http://www.dwolla.com/u/{{ site.dwolla_account_id }}?amount={{ site.default_donation }}&repeats={{ site.dwolla_repeat_donation }}&repeat=3&action=send&memo={{ site.dwolla_memo }}"> <img title="Dwolla" src="images/dwolla.png" width="170" height="59" border="0" /></a>
@@ -105,5 +101,10 @@ Bitcoin <b>{{ site.bitcoin_address }}</b>
 <input type="hidden" name="cobrandingStyle" value="logo">
 <input type="hidden" name="abandonUrl" value="{{ site.donation_url }}">
 </form>
+<br/>
+{% endif %}
+
+{% if site.bitcoin_address %}
+Bitcoin <b>{{ site.bitcoin_address }}</b>
 <br/>
 {% endif %}
