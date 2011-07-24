@@ -4,13 +4,21 @@ title: Jonathan "Duke" Leto
 
 ---
 
-## Talks and Presentations
+## Get 'em All
 
-If you are feeling really stalkerish, feel free to clone the repo of all my presenetations:
+If you are feeling really stalkerish, feel free to clone the repo of all my
+presenetations:
 
     git clone git://github.com/leto/presentations.git
 
+## Talks and Presentations
+
 ### 2011
+
+* PL/Perl6: Butterflies in your Postresql database
+[tex]({{ site.base_url }}/2011/pgday/pres.tex)
+[pdf]({{ site.base_url }}/2011/pgday/pres.pdf?raw=true)
+
 
 * Writing Perl 6 Modules
 [tex]({{ site.base_url }}/2011/intro_to_perl6_modules/pres.tex)
