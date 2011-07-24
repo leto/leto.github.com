@@ -7,7 +7,7 @@ title: Jonathan "Duke" Leto
 ## Get 'em All
 
 If you are feeling really stalkerish, feel free to clone the repo of all my
-presenetations:
+[presentations](https://github.com/leto/presentations):
 
     git clone git://github.com/leto/presentations.git
 
