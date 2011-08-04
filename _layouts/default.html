@@ -27,7 +27,11 @@
     <div class="contact">
       <p>
         {{ site.name }}<br />
+
+        {% if site.tagline %}
         {{ site.tagline }}<br />
+        {% endif %}
+
         {{ site.email }}<br />
       </p>
     </div>
@@ -48,6 +52,9 @@
         {% endif %}
       {% if site.ohloh_url %}
         <a href="{{ site.ohloh_url }}">Ohloh</a><br />
+        {% endif %}
+      {% if site.coderwall_username %}
+        <a href="http://coderwall.com/{{ site.coderwall_username }}">Coderwall</a><br />
         {% endif %}
       </p>
     </div>
