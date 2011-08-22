@@ -18,6 +18,7 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 * PL/Perl6: Butterflies in your Postresql database
 [tex]({{ site.base_url }}/2011/pgday/pres.tex)
 [pdf]({{ site.base_url }}/2011/pgday/pres.pdf?raw=true)
+[video](http://vimeo.com/27975448)
 Portland, Oregon, [PDXPug Day 2011](http://wiki.postgresql.org/wiki/PDXPUGDay2011)
 
 * Writing Perl 6 Modules
