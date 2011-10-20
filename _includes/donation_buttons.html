@@ -1,0 +1,65 @@
+If you want to support the development of any of these projects, then I would greatly appreciate a donation:
+
+<h1>Ways To Donate</h1>
+
+<br />
+
+{% if site.flattr_username %}
+<a href="https://flattr.com/submit/auto?user_id={{ site.flattr_username | cgi_escape }}&url={{ site.flattr_url | cgi_escape }}&tags={{ site.flattr_tags | cgi_escape }}&category={{ site.flattr_category | cgi_escape }}&title={{ site.flattr_title | cgi_escape }}">
+<img style="" alt="Flattr Me" src="{{ site.flattr_image }}" border="0"></a>
+<br/>
+{% endif %}
+
+{% if site.dwolla_account_id %}
+<a href="http://www.dwolla.com/u/{{ site.dwolla_account_id }}?amount={{ site.default_donation }}&repeats={{ site.dwolla_repeat_donation }}&repeat=3&action=send&memo={{ site.dwolla_memo }}"> <img title="Dwolla" src="images/dwolla.png" width="170" height="59" border="0" /></a>
+<br/>
+{% endif %}
+
+{% if site.pledgie_campaign_id %}
+<a href='http://www.pledgie.com/campaigns/{{ site.pledgie_campaign_id }}'>
+<img alt="Click here to donate to {{ site.name  | escape }}" src='http://www.pledgie.com/campaigns/{{ site.pledgie_campaign_id }}.png?skin_name=chrome' border='0' /></a>
+<br />
+{% endif %}
+
+
+{% if site.bitcoin_address %}
+Bitcoin <b>{{ site.bitcoin_address }}</b>
+<br/>
+{% endif %}
+
+{% if site.paypal_email %}
+<!-- PayPal -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="{{ site.paypal_email }}">
+<input type="hidden" name="lc" value="CA">
+<input type="hidden" name="amount" value="{{ site.default_donation }}">
+<input type="hidden" value="Donation to {{ site.name | escape }}" name="item_name">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="{{ site.default_currency }}">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest">
+<input type="image" src="https://www.paypal.com/en_US/i/logo/PayPal_mark_60x38.gif" border="0" name="submit" alt="PayPal">
+</form>
+<br/>
+{% endif %}
+
+{% if site.amazon_payments_account_id %}
+<!-- Amazon Payments -->
+<form action="https://authorize.payments.amazon.com/pba/paypipeline" method="post">
+<input type="text" name="amount" size="6" value="{{ site.default_donation }}">
+
+<input class="donate-btn" type="image" src="http://g-ecx.images-amazon.com/images/G/01/asp/golden_small_donate_withmsg_whitebg.gif" alt="Amazon Payments">
+<input type="hidden" name="immediateReturn" value="1">
+<input type="hidden" name="collectShippingAddress" value="0">
+
+<input type="hidden" name="minimumDonationAmount" value="USD 5">
+<input type="hidden" name="isDonationWidget" value="1">
+<input type="hidden" name="description" value="A donation for {{ site.name | escape }}">
+<input type="hidden" name="amazonPaymentsAccountId" value="{{ site.amazon_payments_account_id }}">
+<input type="hidden" name="returnUrl" value="{{ site.donation_url }}">
+<input type="hidden" name="processImmediate" value="1">
+<input type="hidden" name="cobrandingStyle" value="logo">
+<input type="hidden" name="abandonUrl" value="{{ site.donation_url }}">
+</form>
+<br/>
+{% endif %}
