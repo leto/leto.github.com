@@ -4,27 +4,20 @@ If you want to support the development of any of these projects, then I would gr
 
 <br />
 
-{% if site.flattr_username %}
-<a href="https://flattr.com/submit/auto?user_id={{ site.flattr_username | cgi_escape }}&url={{ site.flattr_url | cgi_escape }}&tags={{ site.flattr_tags | cgi_escape }}&category={{ site.flattr_category | cgi_escape }}&title={{ site.flattr_title | cgi_escape }}">
-<img style="" alt="Flattr Me" src="{{ site.flattr_image }}" border="0"></a>
-<br/>
-{% endif %}
-
 {% if site.dwolla_account_id %}
 <a href="http://www.dwolla.com/u/{{ site.dwolla_account_id }}?amount={{ site.default_donation }}&repeats={{ site.dwolla_repeat_donation }}&repeat=3&action=send&memo={{ site.dwolla_memo }}"> <img title="Dwolla" src="images/dwolla.png" width="170" height="59" border="0" /></a>
-<br/>
 {% endif %}
 
 {% if site.pledgie_campaign_id %}
 <a href='http://www.pledgie.com/campaigns/{{ site.pledgie_campaign_id }}'>
 <img alt="Click here to donate to {{ site.name  | escape }}" src='http://www.pledgie.com/campaigns/{{ site.pledgie_campaign_id }}.png?skin_name=chrome' border='0' /></a>
-<br />
 {% endif %}
 
 
-{% if site.bitcoin_address %}
-Bitcoin <b>{{ site.bitcoin_address }}</b>
-<br/>
+{% if site.flattr_username %}
+
+<a href="https://flattr.com/submit/auto?user_id={{ site.flattr_username | cgi_escape }}&url={{ site.flattr_url | cgi_escape }}&tags={{ site.flattr_tags | cgi_escape }}&category={{ site.flattr_category | cgi_escape }}&title={{ site.flattr_title | cgi_escape }}&description={{ site.flattr_description | cgi_escape }}">
+<img style="" alt="Flattr Me" src="{{ site.flattr_image }}" border="0"></a>
 {% endif %}
 
 {% if site.paypal_email %}
@@ -42,6 +35,12 @@ Bitcoin <b>{{ site.bitcoin_address }}</b>
 </form>
 <br/>
 {% endif %}
+
+{% if site.bitcoin_address %}
+Bitcoin <b>{{ site.bitcoin_address }}</b>
+<br/>
+{% endif %}
+
 
 {% if site.amazon_payments_account_id %}
 <!-- Amazon Payments -->
