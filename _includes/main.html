@@ -25,13 +25,7 @@ If you want to support the development of any of these projects, then I would gr
 </p>
 
 <p>
-{% if site.ohloh_account_id %}
-
-<a href='http://www.ohloh.net/accounts/{{ site.ohloh_account_id}}?ref=Detailed' >
-  <img alt='Ohloh profile' height='35' src='http://www.ohloh.net/accounts/{{ site.ohloh_account_id }}/widgets/account_detailed.gif' width='191' border='0'/>
-  </a>
-
-{% endif %}
+{% include ohloh.html %}
 </p>
 
 <p>
@@ -44,8 +38,5 @@ I am always interested in giving <a href="talks.html">talks and presentations</a
 
 </p>
 
-<p>
-{% include ohloh.html %}
-</p>
 
 {% include donation_buttons.html %}
