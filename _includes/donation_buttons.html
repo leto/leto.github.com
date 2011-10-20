@@ -20,6 +20,12 @@ If you want to support the development of any of these projects, then I would gr
 <img style="" alt="Flattr Me" src="{{ site.flattr_image }}" border="0"></a>
 {% endif %}
 
+{% if site.bitcoin_address %}
+Bitcoin <b>{{ site.bitcoin_address }}</b>
+<br/>
+{% endif %}
+
+
 {% if site.paypal_email %}
 <!-- PayPal -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -33,11 +39,6 @@ If you want to support the development of any of these projects, then I would gr
 <input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest">
 <input type="image" src="https://www.paypal.com/en_US/i/logo/PayPal_mark_60x38.gif" border="0" name="submit" alt="PayPal">
 </form>
-<br/>
-{% endif %}
-
-{% if site.bitcoin_address %}
-Bitcoin <b>{{ site.bitcoin_address }}</b>
 <br/>
 {% endif %}
 
