@@ -13,6 +13,12 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## Talks and Presentations
 
+### 2012
+
+* LearnFWD: Testing CASH Music
+[tex]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.tex)
+[pdf]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.pdf?raw=true)
+
 ### 2011
 
 * PL/Perl6: Butterflies in your Postresql database
