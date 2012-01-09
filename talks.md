@@ -13,13 +13,16 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## Talks and Presentations
 
-### 2012
+## 2012
 
 * LearnFWD: Testing CASH Music
 [tex]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.tex)
 [pdf]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.pdf?raw=true)
+[video](http://blog.webfwd.org/post/15299208855/test-driven-development-the-new-black)
 
-### 2011
+<br>
+
+## 2011
 
 * PL/Perl6: Butterflies in your Postresql database
 [tex]({{ site.base_url }}/2011/pgday/pres.tex)
@@ -51,8 +54,12 @@ Bellginham, Washington, [LinuxFest Northwest](http://linuxfestnorthwest.org), 20
 [tex]({{ site.base_url }}/2011/GMOD/pres.tex)
 [pdf]({{ site.base_url }}/2011/GMOD/pres.pdf?raw=true)
 
-### 2010
+## 2010
 
-### 2009
+<br>
 
-### 2008
+## 2009
+
+<br>
+
+## 2008
