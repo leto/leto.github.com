@@ -22,7 +22,7 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 [pdf]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.pdf?raw=true)
 [video](http://blog.webfwd.org/post/15299208855/test-driven-development-the-new-black)
 
-* Perl Oasis: Doing The Jitterbug
+* Doing The Jitterbug, [Perl Oasis](http://www.perloasis.info/opw2012/)
 [tex]({{ site.base_url }}/2012/perl_oasis_doing_the_jitterbug/pres.tex)
 [pdf]({{ site.base_url }}/2012/perl_oasis_doing_the_jitterbug/pres.pdf?raw=true)
 
