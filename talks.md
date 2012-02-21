@@ -21,7 +21,7 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 [tex]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.tex)
 [pdf]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.pdf?raw=true)
 
-* PDX Git Together Zero
+* [PDX Git Together Zero](http://calagator.org/events/1250461898)
 [tex]({{ site.base_url }}/2012/pdxgit/first/pres.tex)
 [pdf]({{ site.base_url }}/2012/pdxgit/first/pres.pdf?raw=true)
 
