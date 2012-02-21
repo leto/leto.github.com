@@ -17,6 +17,14 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2012
 
+* pdxdevop: Cloud Foundry
+[tex]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.tex)
+[pdf]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.pdf?raw=true)
+
+* PDXGit Meeting Zero
+[tex]({{ site.base_url }}/2012/pdxgit/first/pres.tex)
+[pdf]({{ site.base_url }}/2012/pdxgit/first/pres.pdf?raw=true)
+
 * LearnFWD: Testing CASH Music
 [tex]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.tex)
 [pdf]({{ site.base_url }}/2012/learnfwd_testing_cash_music/pres.pdf?raw=true)
