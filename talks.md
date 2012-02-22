@@ -17,6 +17,10 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2012
 
+* [pdxphp](): CASH Music
+[tex]({{ site.base_url }}/2012/pdxphp_cashmusic/pres.tex)
+[pdf]({{ site.base_url }}/2012/pdxphp_cashmusic/pres.pdf?raw=true)
+
 * [pdxdevops](http://calagator.org/events/1250461712): Cloud Foundry
 [tex]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.tex)
 [pdf]({{ site.base_url }}/2012/pdxdevops_cloudfoundry/pres.pdf?raw=true)
