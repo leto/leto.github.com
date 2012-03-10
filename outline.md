@@ -240,7 +240,7 @@ equations to prove the existence and uniqueness of certain equations arising in
 industrial applications relating to non-Newtonian fluids. I did all the numerics in this
 paper and actually wrote the CPAN module [Math::ODE](https://metacpan.org/release/Math-ODE/) to solve the equations numerically.
 
-### Writing A Useful Program with NASM
- * Assembly Programming Journal 9 (2000)
+### [Writing A Useful Program with NASM](https://github.com/leto/writing/blob/master/nasm/nasm.md)
+ * [Assembly Programming Journal 9](http://mattst88.com/programming/AssemblyProgrammersJournal/issue/9) (2000)
 
 This article is a HOWTO about assembly programming for beginners, and gives example code for NASM.
