@@ -17,7 +17,11 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2012
 
-* [pdxphp](): CASH Music
+* [pdxphp](http://calagator.org/events/1250462143): Chirpify API
+[tex]({{ site.base_url }}/2012/pdxphp_chirpify_api/pres.tex)
+[pdf]({{ site.base_url }}/2012/pdxphp_chirpify_api/pres.pdf?raw=true)
+
+* [pdxphp](http://calagator.org/events/1250461934): CASH Music
 [tex]({{ site.base_url }}/2012/pdxphp_cashmusic/pres.tex)
 [pdf]({{ site.base_url }}/2012/pdxphp_cashmusic/pres.pdf?raw=true)
 
