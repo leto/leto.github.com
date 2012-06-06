@@ -226,10 +226,10 @@ has ever solved before is quite fun.
  * Journal of Mathematical Analysis and Applications, 277 (2003), no. 2, 609
 
 This is an applied mathematics paper that uses the theory of differential
-equations to prove the existence and uniqueness of certain equations arising
-in engineering applications for dams which are subject to temperature
-gradients. I am responsible for all the numerics in this paper, which was part of
-an undergraduate research grant I worked on.
+equations to prove the existence and uniqueness of certain equations arising in
+engineering applications for dams which are subject to temperature gradients. I
+am responsible for all the numerics in this paper, which was part of an
+undergraduate research grant I worked on.
 
 ### On Solutions of Some Nonlinear Differential Equations Arising in Third Grade Fluid Flows
  * K. Vajravelu, J.R. Cannon, D. Rollins, J.Leto
@@ -238,7 +238,8 @@ an undergraduate research grant I worked on.
 This is an applied mathematics paper that uses the theory of differential
 equations to prove the existence and uniqueness of certain equations arising in
 industrial applications relating to non-Newtonian fluids. I did all the numerics in this
-paper and actually wrote the CPAN module [Math::ODE](https://metacpan.org/release/Math-ODE/) to solve the equations numerically.
+paper and actually wrote the CPAN module [Math::ODE](https://metacpan.org/release/Math-ODE/)
+to solve the equations numerically.
 
 ### [Writing A Useful Program with NASM](https://github.com/leto/writing/blob/master/nasm/nasm.md)
  * [Assembly Programming Journal 9](http://mattst88.com/programming/AssemblyProgrammersJournal/issue/9) (2000)
