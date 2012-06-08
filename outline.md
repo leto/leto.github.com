@@ -176,6 +176,12 @@ bindings to Parrot and hence all languages that run on Parrot.
 
 > I enjoy writing technical specifications, publishing academic papers and writing about open source.
 
+###  [The Little Cloud Foundry Book](http://littlecf.github.com)
+
+This short, easily-accessible and free book describes what a
+Platform-as-a-service (PAAS) is, how Cloud Foundry compares to other PAAS
+solutions and how to use, maintain and contribute to Cloud Foundry.
+
 ### [Test Driven Enlightenment](https://github.com/lydiapintscher/Open-Advice/blob/master/qualityassurance/JonathanLeto.tex): A Chapter in the upcoming book "Open Advice"
 
 I had the pleasure of writing a chapter for Lydia Pintscher's upcoming book
