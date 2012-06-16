@@ -9,6 +9,17 @@ title: Jonathan "Duke" Leto
 > I have commit bits to dozens of free and open source projects and have been actively contributing
 to projects for about fifteen years in a dozen languages.
 
+### Helped reduce startup memory use in Firefox
+
+Before this work, all regular expressions in the Firefox Javascript engine (Spidermonkey) were
+compiled and put into memory on startup, even if they are never used. I helped Chris Leary
+to [make regular expressions](http://blog.mozilla.org/nnethercote/2011/10/19/memshrink-progress-weeks-13-18/)
+["lazy"](https://bugzilla.mozilla.org/show_bug.cgi?id=673188)
+which means they are only compiled (and hence use memory)
+when they are first used. This greatly reduces the startup memory footprint, which makes Firefox
+start faster as well. I was also added to the [about:credits](about:credits) in Firefox for this work.
+
+
 ### [parrot-libgit2](https://github.com/letolabs/parrot-libgit2)
 
 parrot-libgit2 are bindings for Parrot Virtual Machine to libgit2, the
