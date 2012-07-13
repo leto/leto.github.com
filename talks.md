@@ -17,7 +17,7 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2012
 
-* [pdx.pm]: Intro to Dist::Zilla for Newbies
+* [pdx.pm](http://calagator.org/events/1250462548): Intro to Dist::Zilla for Newbies
 [tex]({{ site.base_url }}/2012/pdx_pm_intro_to_dist_zilla/pres.tex)
 [pdf]({{ site.base_url }}/2012/pdx_pm_intro_to_dist_zilla/pres.pdf?raw=true)
 
