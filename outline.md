@@ -9,6 +9,14 @@ title: Jonathan "Duke" Leto
 > I have commit bits to dozens of free and open source projects and have been actively contributing
 to projects for about fifteen years in a dozen languages.
 
+
+### Co-Author on the publication of the Tomato Genome
+
+I helped write open source [code](https://github.com/solgenomics) for
+[SolGenomics](http://solgenomics.net) which was used in publishing the genome
+of the Tomato plant (*Solanum lycopersicum*) in
+[Nature](http://www.nature.com/nature/journal/v485/n7400/full/nature11119.html).
+
 ### Helped reduce startup memory use in Firefox
 
 Before this work, all regular expressions in the Firefox Javascript engine (Spidermonkey) were
