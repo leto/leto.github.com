@@ -17,6 +17,9 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2012
 
+
+* [PDX.pm](http://calagator.org/events/1250463084) - Continous Integration Throwdown
+
 * [SMUG](http://calagator.org/events/1250462953) The Rise of Social Coding
 [blog](http://labs.leto.net/2012/10/10/the-rise-of-social-coding.html)
 
