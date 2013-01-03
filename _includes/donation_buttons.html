@@ -1,3 +1,10 @@
+{% if site.gittip_username %}
+<iframe style="border: 0; margin: 0; padding: 0;"
+        src="https://www.gittip.com/{{ site.gittip_username }}/widget.html"
+                width="48pt" height="22pt"></iframe>
+
+{% endif %}
+
 {% if site.bitcoin_address %}
 <div id="bitcoin" style="float:left">
 <a href="bitcoin.html">
