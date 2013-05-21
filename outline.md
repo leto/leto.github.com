@@ -9,6 +9,14 @@ title: Jonathan "Duke" Leto
 > I have commit bits to dozens of free and open source projects and have been actively contributing
 to projects for about fifteen years in a dozen languages.
 
+### Commit Bits
+
+* Catalyst (Perl web framework)
+* BioPerl
+* Math::Big* (Perl Core)
+* Math::MatrixReal
+* Math::GSL
+* Others...
 
 ### Co-Author on the publication of the Tomato Genome
 
@@ -140,10 +148,17 @@ for aggregrating evolutionary data.
 
 > I enjoy being the leader of a team of very smart people and solving hard problems.
 
+### Mentor/Org Admin, Parrot Foundation, Google Summer of Code 2013.
+
+This program draws the smartest college-age students from around the world to
+hack on free and open source projects.
+
+### Mentor/Org Admin, Parrot Foundation, Google Summer of Code 2012
+
 ### Mentor/Org Admin, Parrot Foundation, Google Code-In 2011.
 
-This program is currently in progress and draws the smartest high-school students
-from around the world to hack on free and open source projects.
+This program draws the smartest high-school students from around the world to
+hack on free and open source projects.
 
 ### Mentor/Org Admin, Parrot Foundation, GSoC 2011.
 
