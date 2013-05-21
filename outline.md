@@ -12,10 +12,11 @@ to projects for about fifteen years in a dozen languages.
 ### Commit Bits
 
 * Catalyst (Perl web framework)
+* Jitterbug (Perl continuous integration application)
+* Mimosa (Web-based sequence alignment application)
 * BioPerl
 * Math::Big* (Perl Core)
 * Math::MatrixReal
-* Math::GSL
 * Others...
 
 ### Co-Author on the publication of the Tomato Genome
@@ -147,6 +148,10 @@ for aggregrating evolutionary data.
 # Leadership Achievements
 
 > I enjoy being the leader of a team of very smart people and solving hard problems.
+
+### Root Commit, PDX Git Together 2013
+
+Founded [PDX Git Together](http://pdxgit.com).
 
 ### Mentor/Org Admin, Parrot Foundation, Google Summer of Code 2013.
 
