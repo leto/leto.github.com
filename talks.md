@@ -15,6 +15,15 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 <br>
 
+## 2013
+
+* [PDX Git Together June](http://calagator.org/events/1250464403) - libgit2 and parrot-libgit2
+
+* [Clone PDX Git Together Into Your Town](http://opensourcebridge.org/sessions/1131)
+
+
+* [PDX Git Together April](http://calagator.org/events/1250464008) - @igalko's .gitconfig
+
 ## 2012
 
 
