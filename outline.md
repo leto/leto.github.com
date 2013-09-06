@@ -11,13 +11,20 @@ to projects for about fifteen years in a dozen languages.
 
 ### Commit Bits
 
+* Math::Big* (Perl Core)
 * Catalyst (Perl web framework)
+* BioPerl
+* Math::MatrixReal
 * Jitterbug (Perl continuous integration application)
 * Mimosa (Web-based sequence alignment application)
-* BioPerl
-* Math::Big* (Perl Core)
-* Math::MatrixReal
 * Others...
+
+## Root Commit of PDX Git Together
+
+[PDX Git Together](http://pdxgit.com) is the worlds first Git user group,
+centered in Portland, Oregon and founded by Duke. It meets on the last
+Wednesday of every month. Paris and Berlin now have Git user groups. Is your
+city next?
 
 ### Co-Author on the publication of the Tomato Genome
 
