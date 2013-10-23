@@ -17,6 +17,8 @@ If you are feeling really stalkerish, feel free to clone the repo of all my
 
 ## 2013
 
+* [San Francisco Perl Mongers](http://www.meetup.com/San-Francisco-Perl-Mongers/events/132202742/) - Learning To Love the DAG for Fun and Profit [slides](https://github.com/leto/presentations/blob/master/2013/sf.pm/pres.pdf?raw=true)
+
 * [PDX Git Together June](http://calagator.org/events/1250464403) - libgit2 and parrot-libgit2
 
 * [Clone PDX Git Together Into Your Town](http://opensourcebridge.org/sessions/1131)
