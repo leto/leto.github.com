@@ -160,6 +160,10 @@ for aggregrating evolutionary data.
 
 Founded [PDX Git Together](http://pdxgit.com).
 
+### Mentor, FOSSAsia, Google Summer of Code 2015
+
+### Mentor/Org Admin, The Perl Foundation, Google Summer of Code 2014
+
 ### Mentor/Org Admin, Parrot Foundation, Google Summer of Code 2013.
 
 This program draws the smartest college-age students from around the world to
