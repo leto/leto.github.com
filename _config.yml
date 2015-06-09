@@ -2,8 +2,8 @@ markdown: rdiscount
 pygments: true
 
 name: Jonathan "Duke" Leto
-email: jonathan@leto.net
-tagline: Founder of <a href="http://letolabs.com">Leto Labs LLC</a>
+email: duke@leto.net
+tagline: Founder of <a href="http://letolabs.com">Leto Labs LLC</a> + PDX Git <a href="http://pdxgit.com">PDX Git</a>
 location: Portland, OR
 github: leto
 identica:
