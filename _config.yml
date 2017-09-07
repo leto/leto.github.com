@@ -1,12 +1,11 @@
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 
 name: Jonathan "Duke" Leto
 email: duke@leto.net
 tagline: Founder of <a href="http://letolabs.com">Leto Labs LLC</a> + PDX Git <a href="http://pdxgit.com">PDX Git</a>
-location: Portland, OR
+location: Earth
 github: leto
-identica:
 twitter: dukeleto
 twitter_sri: sha512-kQwpQTxJ73684KcaZ/AZSlpdueik0zyAkgu4emt3J7WhBLBoAJ5kL1hchAskhVRw7DtBkHWa07sZRIdIdtXChg==
 
@@ -16,36 +15,14 @@ donation_url: http://leto.github.com/freeyourself
 
 amazon_payments_account_id:
 
-dwolla_account_id: 812-529-3608
-dwolla_memo: Here is a donation for your valuable work.
-dwolla_repeat_donation: 1
-
 bitcoin_address: 15pwvXdXo8XxJbQhG41d9xtDmr2UoCXoPP
 
 paypal_email: jaleto@gmail.com
 
-google_merchant_id:
-
-pledgie_campaign_id:
-
 google_analytics:
-
-ohloh_account_id: 9466
 
 ohloh_url:  http://ohloh.leto.net
 
 linkedin_url: http://linkedin.leto.net
 
 base_url: https://github.com/leto/presentations/blob/master
-
-coderwall_username: leto
-
-flattr_username: dukeleto
-flattr_url: http://leto.github.com/freeyourself
-flattr_language: en_US
-flattr_tags: website
-flattr_category: software
-flattr_title: Flattr Title
-flattr_image: https://api.flattr.com/button/flattr-badge-large.png
-
-gittip_username: dukeleto
