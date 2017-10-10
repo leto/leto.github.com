@@ -16,7 +16,7 @@ of the ocean.
 A new Equihash-based Bitcoin fork called Bitcoin Gold is seemingly making it
 irrelevant. $BTG is not code complete yet, but they seem to be an active
 community on Github, and up front about their rough edges. The are still
-implementing replay protection and they have assuring me on Github that they
+implementing replay protection and they have assured me on Github that they
 will delay the launch of mainnet if there is no replay protection. So they are
 not tryingt to go the 2X route and fight to death in the streets to be the One
 True Fucking Bitcoin. That will be another post.
