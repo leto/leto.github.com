@@ -40,7 +40,16 @@ can use to test new features and all kinds of awesome stuff. More details will
 be released when we have stable hostnames and Github tags that make it easy for
 people.
 
-I have also been working on the Hush whitepaper, which I will dive into in
+Yet another thing I have been hacking on is cross atomic swaps (XCATs) between
+HUSH and ZEC:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Atomic Swaps (XCAT) via BarterDEX enables p2p trades between <a href="https://twitter.com/search?q=%24KMD&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$KMD</a> <a href="https://twitter.com/search?q=%24ZEC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ZEC</a> <a href="https://twitter.com/search?q=%24BTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BTC</a> <a href="https://twitter.com/search?q=%24HUSH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$HUSH</a> + more very soon, with NO EXCHANGE <a href="https://t.co/Qu56ZqaHcr">https://t.co/Qu56ZqaHcr</a> <a href="https://t.co/Axz5ixMUFF">pic.twitter.com/Axz5ixMUFF</a></p>&mdash; Duke Leto (@dukeleto) <a href="https://twitter.com/dukeleto/status/913794990618247168?ref_src=twsrc%5Etfw">September 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+If you know what that is, please contact me, there is exciting stuff just
+around the corner.
+
+Also I been working on the Hush whitepaper, which I will dive into in
 future posts. For now, keep your coins safe and decentralize in all directions!
 
 
