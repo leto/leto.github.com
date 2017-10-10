@@ -31,9 +31,6 @@ time constraints is non-trivial, go figure:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/MyHushTeam?ref_src=twsrc%5Etfw">@MyHushTeam</a> brand new shiny testnet is nearing completion, somebody earning a 500 <a href="https://twitter.com/search?q=%24HUSH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$HUSH</a> bounty <a href="https://t.co/tBYXHn3KAs">https://t.co/tBYXHn3KAs</a> 😂😂😂 <a href="https://t.co/W1AyIfOaAV">pic.twitter.com/W1AyIfOaAV</a></p>&mdash; Duke Leto (@dukeleto) <a href="https://twitter.com/dukeleto/status/917835110593863681?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/MyHushTeam?ref_src=twsrc%5Etfw">@MyHushTeam</a> brand new shiny testnet is nearing completion, somebody earning a 500 <a href="https://twitter.com/search?q=%24HUSH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$HUSH</a> bounty <a href="https://t.co/tBYXHn3KAs">https://t.co/tBYXHn3KAs</a> 😂😂😂 <a href="https://t.co/W1AyIfOaAV">pic.twitter.com/W1AyIfOaAV</a></p>&mdash; Duke Leto (@dukeleto) <a href="https://twitter.com/dukeleto/status/917835110593863681?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 The main developer working in this will earn a 500HUSH bounty, so they must be
 excited. We will have stable testnet servers that any Hush community members
 can use to test new features and all kinds of awesome stuff. More details will
