@@ -2,7 +2,7 @@ markdown: kramdown
 
 name: Jonathan "Duke" Leto
 email: duke@leto.net
-tagline: Open Source Citizen + Hush Core Developer
+tagline: Open Source Citizen + Cryptocoin Developer
 location: Earth
 github: leto
 twitter: dukeleto
@@ -22,6 +22,6 @@ google_analytics:
 
 ohloh_url:  http://ohloh.leto.net
 
-linkedin_url: http://linkedin.leto.net
+linkedin_url: https://www.linkedin.com/in/jaleto/
 
 base_url: https://github.com/leto/presentations/blob/master
