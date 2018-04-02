@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Komodo Notary Election 2018 + Team ChainStrike
-status: unpublished
+status: published
 ---
 
 # What is Komodo?
