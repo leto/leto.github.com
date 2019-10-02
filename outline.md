@@ -9,6 +9,11 @@ title: Jonathan "Duke" Leto
 > I have commit bits to dozens of free and open source projects and have been actively contributing
 to projects for about twenty years in a dozen languages.
 
+### Contributions
+
+* Bitcoin Core Contributor
+* Zcash Core Contributor
+
 ### Commit Bits
 
 * Math::Big* (Perl Core)
