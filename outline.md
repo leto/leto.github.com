@@ -7,7 +7,7 @@ title: Jonathan "Duke" Leto
 # Achievements
 
 > I have commit bits to dozens of free and open source projects and have been actively contributing
-to projects for about fifteen years in a dozen languages.
+to projects for about twenty years in a dozen languages.
 
 ### Commit Bits
 
