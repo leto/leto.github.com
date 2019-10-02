@@ -14,6 +14,9 @@ to projects for about twenty years in a dozen languages.
 * Bitcoin Core Contributor
 * Zcash Core Contributor
 
+
+<br/>
+
 ### Commit Bits
 
 * Math::Big* (Perl Core)
@@ -23,6 +26,8 @@ to projects for about twenty years in a dozen languages.
 * Jitterbug (Perl continuous integration application)
 * Mimosa (Web-based sequence alignment application)
 * Others...
+
+<br/>
 
 ## Root Commit of PDX Git Together
 
